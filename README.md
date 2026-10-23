@@ -26,7 +26,7 @@
 ### Background
 
 - 5 years in digital marketing & tech support at Visualmodo
-- Technical degree in Systems Analysis and Development at State School Maria Angélica Baillot (2024)
+- Technical degree in Systems Analysis and Development at [State School Maria Angélica Baillot](https://transparencia.educacao.sp.gov.br/Home/DetalhesEscola?codesc=16901) (2021-2024)
 - Advanced English, and learning with [London Idiomas](https://www.instagram.com/londonidiomas)
 - Currently learning: SQL, Node.js, backend focused tasks
 
