@@ -1,6 +1,6 @@
 # Luis Claudio — Dev & Builder
 
-> 19 y/o from Brazil. I build things I'd actually want to use.
+> 20 y/o from Brazil. I build things I'd actually want to use.
 
 ---
 
@@ -26,9 +26,9 @@
 ### Background
 
 - 5 years in digital marketing & tech support at Visualmodo
-- Technical degree in Systems Analysis and Development (2024)
-- Advanced English
-- Currently learning: SQL, Node.js, backend
+- Technical degree in Systems Analysis and Development at State School Maria Angélica Baillot (2024)
+- Advanced English, and learning with [London Idiomas](https://www.instagram.com/londonidiomas)
+- Currently learning: SQL, Node.js, backend focused tasks
 
 ---
 
